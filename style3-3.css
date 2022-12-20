@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+.body {
+  background-color: yellow;
+}
+.link{
+  width: 50px;
+  border:1px solid black;
+  display: inline-block;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 10px;
+  padding: 5px;
+}
+.facebook{
+  background-color: blue;
+}
+.youtobe{
+  background-color: red;
+}
+.instagram{
+  background-color: pink;
+}
+.twitter{
+  background-color: aqua;
+}

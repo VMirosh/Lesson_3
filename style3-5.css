@@ -1,0 +1,44 @@
+
+.head{
+  background-color: lightgray;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+.main {
+ width: 100%;
+
+}
+h4 {
+  text-decoration: underline;
+}
+.post_1 h4{
+  word-spacing: 5px;
+}
+.post_2 h4{
+  letter-spacing: 5px;
+}
+.blok p{
+  background-color: aqua;
+  font-style: italic;
+  font-size: 30px;
+}
+.post_1 p{
+  font-weight: bold;
+  background-color: lightpink;
+}
+.post_2 p{
+  text-indent: 5px;
+  background-color: blueviolet;
+}
+button{
+  background-color:lightgray;
+  width: 100px;
+  text-align: center;
+  border: none;
+}
+.post_2 button{
+  text-align: right;
+  padding: 0;
+}
+

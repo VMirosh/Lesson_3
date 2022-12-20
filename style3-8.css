@@ -1,0 +1,15 @@
+ * {
+  margin: 0;
+ }
+ .first{
+  width: 400px;
+  border: 2px solid blue;
+  background-color: lightcyan;
+  margin-top:100px ;
+  box-sizing: border-box;
+}
+.heat{
+  background-color: red;  
+  margin: auto;
+  width: 20%;
+}
